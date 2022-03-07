@@ -1,5 +1,6 @@
 ["Codes"] = { 
   ["Test"] = { 
+    ["Active"] = true, 
     ["Bananas"] = 500, 
   }
 }
