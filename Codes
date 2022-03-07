@@ -1,8 +1,6 @@
 ["Codes"] = { 
   ["Test"] = { 
-    Active = true, 
-    Rewards = {  
-      Bananas = 1500, 
-    }
+    ["Active"] = true, 
+    ["Rewards"] = {Bananas = 1500}, 
   }
 }
