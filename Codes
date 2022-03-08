@@ -1,6 +1,2 @@
-["Codes"] = { 
-  ["Test"] = { 
-    ["Active"] = true, 
-    ["Rewards"] = {Bananas = 1500}, 
-  }
-}
+Test:Active=true:Bananas=1500
+Andrew:Active=false:Bananas=3000
